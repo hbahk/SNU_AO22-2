@@ -1,5 +1,7 @@
 # SNU Astronomical Observation II
 
+Here is a notebook containing the main contents: [Spectroscopic Data Reduction](https://nbviewer.org/github/hbahk/SNU_AO22-2/blob/main/Spectroscopic-Data-Reduction.ipynb)
+
 This repo includes a pedagogical example about spectroscopic data reduction process. This course is for undergraduate students at SNU, thus note that example presented here often skips some details that needed for a careful research.
 
 The main notebook containing the process of the spectroscopic data reduction is originally written by **Jooyeon Geem**, and later edited by **Hyeonguk Bahk**; myself.
